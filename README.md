@@ -1,6 +1,8 @@
 # Plain Text Editor
 
-A lightweight, robust plain text editor built with C# and WPF for .NET 8.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/brodynelly/better-text-editor-c-wpf/actions/workflows/ci.yml/badge.svg)](https://github.com/brodynelly/better-text-editor-c-wpf/actions/workflows/ci.yml) ![C#](https://img.shields.io/badge/C%23-.NET_8-purple?logo=dotnet)
+
+A lightweight plain text editor built with C# and WPF for .NET 8.
 
 ## Features
 
